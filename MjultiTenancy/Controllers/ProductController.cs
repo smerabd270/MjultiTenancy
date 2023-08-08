@@ -29,6 +29,7 @@ namespace MjultiTenancy.Controllers
         {
             var product = new Product()
             {
+                //test
                 Description = productDto.Description,
                 Name = productDto.Name,
                 Rate = productDto.Rate
